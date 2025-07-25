@@ -1,8 +1,8 @@
 const images = [
-        'img_fondo/factura1.jpg',
-        'img_fondo/factura2.jpg',
-        'img_fondo/factura3.jpg',
-        'img_fondo/factura4.jpg'
+        'factura1.jpg',
+        'factura2.jpg',
+        'factura3.jpg',
+        'factura4.jpg'
     ];
 
     let currentIndex1 = 0;
