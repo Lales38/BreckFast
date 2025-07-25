@@ -1,10 +1,10 @@
 const array = [
-    '<img src="img/Juan.png" alt="Juan Pablo">',
-    '<img src="img/Nico.png" alt="Nico">',
-    '<img src="img/Edu.png" alt="Eduardo">',
-    '<img src="img/Ale.png" alt="Ale">',
-    '<img src="img/Marcos.png" alt="Marcos">',
-    '<img src="img/Milton.png" alt="Milton">'    
+    '<img src="Juan.png" alt="Juan Pablo">',
+    '<img src="Nico.png" alt="Nico">',
+    '<img src="Edu.png" alt="Eduardo">',
+    '<img src="Ale.png" alt="Ale">',
+    '<img src="Marcos.png" alt="Marcos">',
+    '<img src="Milton.png" alt="Milton">'    
 ];
 
 // Fecha de inicio: 14/07/2025
