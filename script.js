@@ -7,8 +7,8 @@ const array = [
     '<img src="Milton.png" alt="Milton">'    
 ];
 
-// Fecha de inicio: 14/07/2025
-const startDate = new Date('2025-07-14T08:15:00');
+// Fecha de inicio: 21/07/2025
+const startDate = new Date('2025-07-21T08:15:00');
 
 function updateContent() {
     const imageContainer = document.getElementById('image-container');
@@ -49,4 +49,5 @@ function updateContent() {
 // Actualiza el contenido inmediatamente y luego cada semana (604800000 ms)
 updateContent();
 setInterval(updateContent, 604800000);
+
 
