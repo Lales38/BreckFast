@@ -8,7 +8,7 @@ const array = [
 ];
 
 // Fecha de inicio: 28/07/2025
-const startDate = new Date('2025-08-08T08:15:00');
+const startDate = new Date('2025-08-15T08:15:00');
 
 function updateContent() {
     const imageContainer = document.getElementById('image-container');
@@ -49,6 +49,7 @@ function updateContent() {
 // Actualiza el contenido inmediatamente y luego cada semana (604800000 ms)
 updateContent();
 setInterval(updateContent, 604800000);
+
 
 
 
