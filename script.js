@@ -3,7 +3,6 @@ const array = [
     '<img src="Nico.png" alt="Nico">',
     '<img src="Edu.png" alt="Eduardo">',
     '<img src="Ale.png" alt="Ale">',
-    '<img src="Marcos.png" alt="Marcos">',
     '<img src="Milton.png" alt="Milton">'    
 ];
 
