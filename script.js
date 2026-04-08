@@ -7,7 +7,7 @@ const array = [
 ];
 
 // Fecha de inicio: 28/07/2025
-const startDate = new Date('2026-02-14T08:15:00');
+const startDate = new Date('2026-02-28T08:15:00');
 
 function updateContent() {
     const imageContainer = document.getElementById('image-container');
