@@ -6,7 +6,7 @@ const array = [
     '<img src="Milton.png" alt="Milton">'    
 ];
 
-// Fecha de inicio: 28/07/2025
+// Fecha de inicio: 08/03/2026
 const startDate = new Date('2026-03-08T08:15:00');
 
 function updateContent() {
