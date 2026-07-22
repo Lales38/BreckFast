@@ -1,13 +1,12 @@
 const array = [
     '<img src="Juan.png" alt="Juan Pablo">',
-    '<img src="Nico.png" alt="Nico">',
-    '<img src="Edu.png" alt="Eduardo">',
+     '<img src="Edu.png" alt="Eduardo">',
     '<img src="Ale.png" alt="Ale">',
     '<img src="Milton.png" alt="Milton">'    
 ];
 
 // Fecha de inicio: 08/03/2026
-const startDate = new Date('2026-03-08T08:15:00');
+const startDate = new Date('2026-07-17T08:15:00');
 
 function updateContent() {
     const imageContainer = document.getElementById('image-container');
